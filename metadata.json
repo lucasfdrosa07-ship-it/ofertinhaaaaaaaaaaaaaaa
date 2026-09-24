@@ -1,0 +1,8 @@
+{
+  "name": "Remix Desafio Calistenia em Casa — 21 Dias",
+  "description": "Quiz de diagnóstico e personalização para o programa Desafio Calistenia em Casa — 21 Dias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
